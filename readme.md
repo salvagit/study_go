@@ -1,3 +1,3 @@
 # go training go ..
 
-[![](https://talks.golang.org/2012/splash/appenginegophercolor.jpg)]
+![](https://talks.golang.org/2012/splash/appenginegophercolor.jpg)
